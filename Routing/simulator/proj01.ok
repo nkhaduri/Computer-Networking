@@ -1,0 +1,17 @@
+{
+    "name": "Project 1",
+    "endpoint": "cal/cs168/fa15/proj1",
+    "src": [
+        "dv_router.py",
+        "learning_switch.py"
+    ],
+    "tests": {
+        "ok-tools/placeholder.py" : "ok_test"
+    },
+    "protocols": [
+        "restore",
+        "file_contents",
+        "grading",
+        "backup"
+    ]
+}
