@@ -1,0 +1,35 @@
+{
+  "log": "logs",
+  "server": [
+    {
+      "vhost": "example1.ge",
+      "ip": "127.0.0.1",
+      "port": 8888,
+      "documentroot": "example1.ge"
+    },
+    {
+      "vhost": "example2.ge",
+      "ip": "127.0.0.1",
+      "port": 8888,
+      "documentroot": "example2.ge"
+    },
+    {
+      "vhost": "example3.ge",
+      "ip": "127.0.0.1",
+      "port": 8888,
+      "documentroot": "example3.ge"
+    },
+    {
+      "vhost": "example4.ge",
+      "ip": "127.0.0.1",
+      "port": 8080,
+      "documentroot": "example4.ge"
+    },
+    {
+      "vhost": "example5.ge",
+      "ip": "127.0.0.1",
+      "port": 8080,
+      "documentroot": "example5.ge"
+    }
+  ]
+}
